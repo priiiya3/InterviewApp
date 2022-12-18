@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InterviewCreator</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this Interview as completed.</string>
+    <string name="congrats_you_have_completed_successfully">Congrats!... You have completed successfully..</string>
+    <string-array name="Participants">
+        <item>Aarushi@gmail.com</item>
+        <item>khushi@gmail.com</item>
+        <item>shalini@gmail.com</item>
+        <item>Abhay@gmail.com</item>
+        <item>Rahul@gmail.com</item>
+        <item>Rajat@gmail.com</item>
+        <item>Sonal@gmail.com</item>
+        <item>Manav@gmail.com</item>
+        <item>Sristi@gmail.com</item>
+        <item>Yashi@gmail.com</item>
+    </string-array>
+</resources>
